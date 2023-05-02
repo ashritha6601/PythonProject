@@ -11,9 +11,9 @@ The technical work that you are expected to conduct as part of this project is:
 - assign a confidence score to your matches Your algorithm should take no more than a few hours to run, ie you should not implement a brute force Order N^2 matching algorithm. 
 
 **Deliverables** 
-○ **Python code: **
-EDA_and_Visualization.ipynb  - contains EDA
-FinalCode.ipynb - contains EDA and algorithm for best matches
-○ Finalmatches.xlsx - csv that contains the match IDs and confidence score 
-○ presentation deck - Team 87 Group Project Presentation
+- **Python code: **
+  - EDA_and_Visualization.ipynb: contains EDA
+  - FinalCode.ipynb: contains EDA and algorithm for best matches
+- Finalmatches.xlsx - csv that contains the match IDs and confidence score 
+- Presentation deck - Team 87 Group Project Presentation
 
