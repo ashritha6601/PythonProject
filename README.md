@@ -10,10 +10,11 @@ The technical work that you are expected to conduct as part of this project is:
 - develop an algorithm that can produces matches across both datasets 
 - assign a confidence score to your matches Your algorithm should take no more than a few hours to run, ie you should not implement a brute force Order N^2 matching algorithm. 
 
-**Deliverables** 
-- **Python code: **
+**Deliverables**
+- Python code: 
   - EDA_and_Visualization.ipynb: contains EDA
   - FinalCode.ipynb: contains EDA and algorithm for best matches
 - Finalmatches.xlsx - csv that contains the match IDs and confidence score 
 - Presentation deck - Team 87 Group Project Presentation
+- Dataset: left_dataset.csv.zip and right_dataset.csv.zip
 
